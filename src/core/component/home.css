@@ -1,10 +1,11 @@
-.link {
+.link{
   margin-left: 90%;
   padding: 20px;
   background-color: #6f97b1;
   color: #ffffff;
   display: inline-block;
   border: none;
+  text-decoration: none;
   border-radius: 10px;
   font-weight: bold;
   cursor: pointer;

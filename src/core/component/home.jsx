@@ -29,8 +29,8 @@ export const Home = () => {
 
   return (
     <div className="article">
-      <Link to="/article">
-        <button className="link">Create</button>
+      <Link to="/article" className="link">
+        Create
       </Link>
       {article.map((e) => (
         <div
