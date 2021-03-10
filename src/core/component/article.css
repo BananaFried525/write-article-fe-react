@@ -1,0 +1,49 @@
+.article {
+  width: 80%;
+  margin: auto;
+  background-color: #fff;
+  padding: 20px;
+  margin-top:20px;
+  border-radius: 10px;
+}
+
+.footer{
+    width: 22%;
+    margin:auto;
+}
+
+.footer button{
+    margin:10px 20px 0;
+    padding:10px;
+    border: none;
+    border-radius: 5px;
+    color:#fff;
+    transition: ease-in 200ms;
+    cursor: pointer;
+}
+
+.footer button.submit{
+    background-color: #6f97b1;
+
+}
+.footer button.submit:hover{
+    background-color: #4280aa;
+}
+.footer button.submit:disabled{
+    background-color: #c5c5c5;
+    cursor: default;
+}
+
+.footer button.reset{
+    background-color: #ff748a;
+
+}
+.footer button.reset:hover {
+    background-color: #ff435f;
+}
+
+.content{
+    padding:10px;
+    border: 1px solid rgb(233, 233, 233);
+    border-radius: 5px;
+}

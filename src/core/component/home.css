@@ -1,0 +1,39 @@
+.link {
+  margin-left: 90%;
+  padding: 20px;
+  background-color: #6f97b1;
+  color: #ffffff;
+  display: inline-block;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: ease-in 200ms;
+}
+
+.link:hover {
+  background-color: #288ccf;
+}
+
+.article{
+    width:80%;
+    margin:auto;
+    margin-top:20px;
+    padding:20px;
+}
+
+button.remove{
+    
+    margin-left: 90%;
+    padding:10px;
+    border: none;
+    border-radius: 5px;
+    color:#fff;
+    transition: ease-in 200ms;
+    cursor: pointer;
+    background-color: #c9818b;
+
+}
+button.remove:hover {
+    background-color: #ff435f;
+}
